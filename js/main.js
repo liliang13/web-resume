@@ -40,7 +40,7 @@
                 document.title = data.document_title;
 
                 // render topbar
-                var topbar_html_wrap = '<p>{0} <a class="source" href="https://github.com/clippit/resume" target="_blank">{1}</a></p>',
+                var topbar_html_wrap = '<p>{0} <a class="source" href="https://github.com/liliang13/web-resume" target="_blank">{1}</a></p>',
                     topbar_html = topbar_html_wrap.format(
                         data.language_tip.format(
                             '<a class="select select-zh" href="#zh">中文</a>',
