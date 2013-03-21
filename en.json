@@ -13,7 +13,7 @@
 	"birth": "August,1990",
 
 "content":
-	[
+	
 		{
 			"title": "Interesting Projects",
 			"details":
@@ -35,8 +35,8 @@
 					]
 				},
 			]
-		}
-	],
+		},
+	
 
 
 	"highlights":
