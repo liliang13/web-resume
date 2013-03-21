@@ -12,31 +12,6 @@
 	"major": "Engineering Management in reading",
 	"birth": "August,1990",
 
-"content":
-	
-		{
-			"title": "Interesting Projects",
-			"details":
-			[
-				{
-					"subtitle": "WordPress Theme：icoffee",
-					"time": "November 2012",
-					"description": "A very simple WP Theme",
-					"link":
-					[
-						{
-							"text": "Visit Website ",
-							"href": "http://liliang13.com/html/314.html"
-						},
-						{
-							"text": "View Source on GitHub",
-							"href": "https://github.com/liliang13/icoffee"
-						}
-					]
-				},
-			]
-		},
-	
 
 
 	"highlights":

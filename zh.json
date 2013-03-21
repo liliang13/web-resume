@@ -12,30 +12,7 @@
 	"major": "工程管理专业在读",
 	"birth": "1990年8月",
 
-	"content":
-	
-		{
-			"title": "兴趣项目",
-			"details":
-			[
-				{
-					"subtitle": "WordPress 主题：icoffee",
-					"time": "2012年，11月",
-					"description": "一个非常简单的WordPress 主题",
-					"link":
-					[
-						{
-							"text": "访问网站",
-							"href": "http://liliang13.com/html/314.html"
-						},
-						{
-							"text": "GitHub上的源码",
-							"href": "https://github.com/liliang13/icoffee"
-						}
-					]
-				},
-			]
-		},
+
 	
 
 	"highlights":
