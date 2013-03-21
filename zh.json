@@ -1,0 +1,58 @@
+{
+	"document_title":"李亮的简历",
+	"language_tip": "本简历页面支持 {0} 和 {1} 两种语言。亦有 {2} 可供下载。",
+	"download_pdf": "PDF文件",
+	"view_source": "在GitHub上查看源码",
+
+	"name": "李亮",
+	"sex": "男",
+	"tel": "%28%2b%38%36%29%31%33%37%2d%32%32%33%37%2d%39%39%38%36",
+	"email": "%6c%69%6c%69%61%6E%67%30%33%31%30%40%67%6d%61%69%6c%2e%63%6f%6d",
+	"address": "石家庄铁道大学四方学院",
+	"major": "工程管理在读",
+	"birth": "1990年8月",
+
+	"content":
+	[
+		{
+
+		}
+	],
+
+	"highlights":
+	[
+		{
+			"title": "编程语言",
+			"list": ["PHP"]
+		},
+		{
+			"title": "框架和平台",
+			"list": ["Wordpress"]
+		},
+		{
+			"title": "软件和工具",
+			"list": ["Github","Git", "MySQL","Sublime Text 2","Evernote"]
+		},
+		{
+			"title": "操作系统",
+			"list": ["Windows","CentOS"]
+		},
+		{
+			"title": "在校活动",
+			"list": ["帮助本班同学的课程实习(Visual Foxpro"]
+		},
+		{
+			"title": "特点",
+			"list": ["崇尚开源", "认为技术改变世界", "理想主义者"]
+		},
+		{
+			"title": "链接",
+			"list":
+			[
+				"<a href=\"http://github.com/liliang13\" target=\"_blank\"><span class=\"link-caption\">github</span>.com/liliang13</a>",
+				"<a href=\"http://liliang13.com\" target=\"_blank\"><span class=\"link-caption\">liliang13</span>.com</a>",
+				"<a href=\"http://twitter.com/liliang13\" target=\"_blank\"><span class=\"link-caption\">twitter</span>.com/liliang13</a>"
+			]
+		}
+	]
+}

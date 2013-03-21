@@ -1,0 +1,51 @@
+{
+	"document_title": "Li Liang's Resume",
+	"language_tip": "The page is available in {0} and {1}. You can also {2}.",
+	"download_pdf": "download as PDF",
+	"view_source": "View source on github",
+
+	"name": "Li Liang",
+	"sex": "male",
+	"tel": "%28%2b%38%36%29%31%33%37%2d%32%32%33%37%2d%39%39%38%36",
+	"email": "%6c%69%6c%69%61%6E%67%30%33%31%30%40%67%6d%61%69%6c%2e%63%6f%6d",
+	"address": "SiFang College of Shijiazhuang Tiedao University",
+	"major": "Engineer management in reading",
+	"birth": "August,1990",
+
+	"highlights":
+	[
+		{
+			"title": "Languages",
+			"list": ["PHP"]
+		},
+		{
+			"title": "Frameworks & Platforms",
+			"list": ["Wordpress"]
+		},
+		{
+			"title": "Softwares & Tools",
+			"list": ["Github","Git", "MySQL","Sublime Text 2","Evernote"]
+		},
+		{
+			"title": "OS",
+			"list": ["Windows","CentOS"]
+		},
+		{
+			"title": "School Life",
+			"list": ["Help classmates to solve the questions(Visual Foxpro"]
+		},
+		{
+			"title": "Features",
+			"list": ["Advocate OSS","Think science can change world","Idealist"]
+		},
+		{
+			"title": "Links",
+			"list":
+			[
+				"<a href=\"http://github.com/liliang13\" target=\"_blank\"><span class=\"link-caption\">github</span>.com/liliang13</a>",
+				"<a href=\"http://liliang13.com\" target=\"_blank\"><span class=\"link-caption\">liliang13</span>.com</a>",
+				"<a href=\"http://twitter.com/liliang13\" target=\"_blank\"><span class=\"link-caption\">twitter</span>.com/liliang13</a>"
+			]
+		}
+	]
+}

@@ -3,10 +3,82 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 	<title>李亮-Resume</title>
-	<script src="http://lib.sinaapp.com/js/jquery/1.9.1/jquery-1.9.1.min.js"></script>
-	<link rel="stylesheet" href="">
+	<link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/main.css">
+    <script src="js/vendor/modernizr-2.6.1.min.js"></script>
+<style>
+    .right{float: right;}
+</style>
 </head>
 <body>
-	
+		<div id="topbar">
+			<p>My Resume is available in <a class="select select-zh" href="#zh">中文</a> and <a class="select select-en" href="#en">English</a>. You may also <a href="LiLiang_zh.pdf">download as PDF</a>. <a class="source" href="https://github.com/liliang13/web-resume" target="_blank">View source on github</a></p>
+		</div>
+
+        <div id="loadingbar-wrapper">
+        <div id="loadingbar-1" class="loadingbar"></div>
+        <div id="loadingbar-2" class="loadingbar"></div>
+        <div id="loadingbar-3" class="loadingbar"></div>
+        </div>
+
+        <div class="container" id="main">
+        </div>
+
+        <script id="template" type="text/x-mustache-template">
+            <header class="clearfix">
+                <h1>{{name}}</h1>
+
+                <figure class="contact">
+                    <a href="http://liliang13.com">liliang13.com</a>
+                    <address>
+                        <span class="encoded" data-encoded="{{tel}}"></span><br />
+                        <span class="encoded email" data-encoded="{{email}}"></span><br />
+                        {{address}}
+                    </address>
+                    {{major}}
+                </figure>
+            </header>
+
+            <div class="row content">
+            {{#content}}
+                <section>
+                    <h2>{{title}}</h2>
+                    {{#details}}
+                    <dl>
+                        <dt>{{subtitle}}<span class="time">{{time}}</span></dt>
+                        <dd>
+                        {{description}}
+                        {{#link}}
+                            <br /><a href="{{href}}" target="_blank" class="description-link">&rArr; {{text}}</a>
+                        {{/link}}
+                        </dd>
+                    </dl>
+                    {{/details}}
+                    {{^details}}<p>{{text}}</p>{{/details}}
+                </section>
+            {{/content}}
+            </div>
+
+            <aside class="row sidebar">
+                <dl>
+                {{#highlights}}
+                    <dt>{{title}}</dt>
+                    <dd>
+                        <ul>
+                        {{#list}}
+                            <li>{{&.}}</li>
+                        {{/list}}
+                        </ul>
+                    </dd>
+                {{/highlights}}
+                </dl>
+            </aside>
+        </script>
+
+        <script src="http://lib.sinaapp.com/js/jquery/1.9.1/jquery-1.9.1.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.8.0.min.js"><\/script>')</script>
+        <script async src="http://use.edgefonts.net/muli.js"></script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
 </body>
 </html>
