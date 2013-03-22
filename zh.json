@@ -12,29 +12,37 @@
 	"major": "工程管理专业在读",
 	"birth": "1990年8月",
 
+
 	"content":
 	[
+		
 		{
-			"title": "兴趣项目",
+			"title": "独立兴趣项目",
 			"details":
 			[
 				{
 					"subtitle": "WordPress 主题：icoffee",
-					"time": "2012年，11月",
+					"time": "2012年，11",
 					"description": "一个非常简单的WordPress 主题",
 					"link":
 					[
 						{
 							"text": "访问网站",
 							"href": "http://liliang13.com/html/314.html"
-						}
+						},
 						{
 							"text": "GitHub上的源码",
 							"href": "https://github.com/liliang13/icoffee"
 						}
 					]
-				}
+				},
+				
 			]
+		},
+		
+		{
+			"title": "教育",
+			"text": "石家庄铁道大学四方学院本科，工程管理专业，2011-2015，大学英语六级"
 		}
 	],
 	
