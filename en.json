@@ -5,14 +5,41 @@
 	"view_source": "View source on github",
 
 	"name": "Li Liang",
-	"sex": "male",
 	"tel": "%28%2b%38%36%29%31%33%37%2d%32%32%33%37%2d%39%39%38%36",
 	"email": "%6c%69%6c%69%61%6E%67%30%33%31%30%40%67%6d%61%69%6c%2e%63%6f%6d",
 	"address": "SiFang College of Shijiazhuang Tiedao University",
 	"major": "Engineering Management in reading",
 	"birth": "August,1990",
 
-
+	"content":
+	[
+		{
+			"title": "Interesting Project",
+			"details":
+			[
+				{
+					"subtitle": "WordPress Theme：icoffee",
+					"time": "2012年，11月",
+					"description": "A very simple WordPress Theme",
+					"link":
+					[
+						{
+							"text": "Visit Website",
+							"href": "http://liliang13.com/html/314.html"
+						},
+						{
+							"text": "View Source on GitHub",
+							"href": "https://github.com/liliang13/icoffee"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Education",
+			"text": "achelor of SiFang College of Shijiazhuang Tiedao University，Engineering Management in reading，2011-2015，CET 6"
+		}
+	],
 
 	"highlights":
 	[
