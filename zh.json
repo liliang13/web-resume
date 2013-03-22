@@ -13,7 +13,7 @@
 	"birth": "1990年8月",
 
 	"content":
-	
+	[
 		{
 			"title": "兴趣项目",
 			"details":
@@ -36,7 +36,7 @@
 				}
 			]
 		}
-
+	],
 	
 
 	"highlights":
