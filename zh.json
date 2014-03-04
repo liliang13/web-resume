@@ -32,21 +32,16 @@
 							"href": "https://github.com/liliang13/icoffee"
 						}
 					]
-				}
-			]
-			[
+				},
 				{
 					"subtitle": "帮助stdyun 修补代码",
 					"time": "2012年，11月",
 					"description": "stdyun发布云主机创建的API, 但是在自己的机器跑不起来，于是Google 后发现问题并解决，也提交了PR.",
 					"link":
-					[
 						{
 							"text": "Github详情",
 							"href": "https://github.com/stdyun/stdyun-api-bash/commits/master/stdyun.sh?author=liliang13"
 						}
-					]
-
 				}
 			]
 		},
