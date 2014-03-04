@@ -1,0 +1,90 @@
+{
+	"document_title": "李亮的简历",
+	"language_tip": "本简历页面支持 {0} 和 {1} 两种语言。亦有 {2} 可供下载。",
+	"download_pdf": "PDF文件",
+	"view_source": "在GitHub上查看源码",
+
+	"name": "李亮",
+	"tel": "%28%2b%38%36%29%31%33%37%2d%32%32%33%37%2d%39%39%38%36",
+	"email": "%6c%69%6c%69%61%6E%67%30%33%31%30%40%67%6d%61%69%6c%2e%63%6f%6d",
+	"address": "石家庄铁道大学四方学院",
+	"major": "工程管理专业在读",
+	"birth": "1990年8月",
+
+	"content":
+	[
+		{
+			"title": "兴趣项目",
+			"details":
+			[
+				{
+					"subtitle": "WordPress 主题：icoffee",
+					"time": "2012年，11月",
+					"description": "一个非常简单的WordPress 主题",
+					"link":
+					[
+						{
+							"text": "访问网站",
+							"href": "http://liliang13.com/html/314.html"
+						},
+						{
+							"text": "GitHub上的源码",
+							"href": "https://github.com/liliang13/icoffee"
+						}
+					]
+				},
+				{
+					"subtitle": "帮助stdyun 修补代码",
+					"time": "2012年，11月",
+					"description": "stdyun发布云主机创建的API, 但是在自己的机器跑不起来，于是Google 后发现问题并解决，也提交了PR.",
+					"link":
+						{
+							"text": "Github详情",
+							"href": "https://github.com/stdyun/stdyun-api-bash/commits/master/stdyun.sh?author=liliang13"
+						}
+				}
+			]
+		},
+		{
+			"title": "教育",
+			"text": "石家庄铁道大学四方学院本科，工程管理专业，2011-2015，大学英语六级"
+		}
+	],
+
+	"highlights":
+	[
+		{
+			"title": "编程语言",
+			"list": ["PHP"]
+		},
+		{
+			"title": "框架和平台",
+			"list": ["Wordpress"]
+		},
+		{
+			"title": "软件和工具",
+			"list": ["Github","Git", "MySQL","Sublime Text 2","Evernote"]
+		},
+		{
+			"title": "操作系统",
+			"list": ["Windows","CentOS"]
+		},
+		{
+			"title": "在校活动",
+			"list": [""]
+		},
+		{
+			"title": "特点",
+			"list": ["崇尚开源", "认为技术改变世界", "理想主义者"]
+		},
+		{
+			"title": "链接",
+			"list":
+			[
+				"<a href=\"http://github.com/liliang13\" target=\"_blank\"><span class=\"link-caption\">github</span>.com/liliang13</a>",
+				"<a href=\"http://liliang13.com\" target=\"_blank\"><span class=\"link-caption\">liliang13</span>.com</a>",
+				"<a href=\"http://twitter.com/liliang13\" target=\"_blank\"><span class=\"link-caption\">twitter</span>.com/liliang13</a>"
+			]
+		}
+	]
+}
