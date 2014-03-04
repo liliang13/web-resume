@@ -34,6 +34,18 @@
 					]
 				}
 			]
+				{
+					"subtitle": "帮助stdyun 修补代码",
+					"time": "2012年，11月",
+					"description": "stdyun发布云主机创建的API, 但是在自己的机器跑不起来，于是Google 后发现问题并解决，也提交了PR.",
+					"link":
+					[	{
+							"text": "Github详情",
+							"href": "https://github.com/stdyun/stdyun-api-bash/commits/master/stdyun.sh?author=liliang13"
+						}
+					]
+
+				}
 		},
 		{
 			"title": "教育",
@@ -61,7 +73,7 @@
 		},
 		{
 			"title": "在校活动",
-			"list": ["帮助本班同学的课程实习(Visual Foxpro)"]
+			"list": [""]
 		},
 		{
 			"title": "特点",
